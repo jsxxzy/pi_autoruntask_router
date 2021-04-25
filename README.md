@@ -13,7 +13,7 @@ export dr_password=?
 
 而且你需要自己手动编译 `daemon` 程序, 它在: https://github.com/jsxxzy/inet/cmd/daemon/router
 
-在执行之前也需要将网管设置一下: `build.sh`
+在执行之前也需要将网关设置一下: `build.sh`
 
 ```bash
 # 树莓派的局域网ip
